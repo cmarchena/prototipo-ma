@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Morales Asencio Abogados</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jul 2016 06:50:13 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Jul 2016 06:50:13 +0200</lastBuildDate>
+    <link>http://cmarchena.github.io/prototipo-ma/</link>
+    <atom:link href="http://cmarchena.github.io/prototipo-ma/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 Jul 2016 07:19:19 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Jul 2016 07:19:19 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 22 Jul 2016 19:24:09 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/07/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/22/welcome-to-jekyll.html</guid>
+        <link>http://cmarchena.github.io/prototipo-ma/jekyll/update/2016/07/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://cmarchena.github.io/prototipo-ma/jekyll/update/2016/07/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -200,8 +200,8 @@
 &lt;/html&gt;
 </description>
         <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2016/07/13/nuevo-post-hola-mundo.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/07/13/nuevo-post-hola-mundo.html</guid>
+        <link>http://cmarchena.github.io/prototipo-ma/2016/07/13/nuevo-post-hola-mundo.html</link>
+        <guid isPermaLink="true">http://cmarchena.github.io/prototipo-ma/2016/07/13/nuevo-post-hola-mundo.html</guid>
         
         
       </item>
